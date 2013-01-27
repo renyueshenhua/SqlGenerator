@@ -1,0 +1,1 @@
+{fieldName} {fieldType} {isNull} {isPrimaryKey}
