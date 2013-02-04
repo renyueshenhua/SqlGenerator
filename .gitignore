@@ -10,9 +10,11 @@ target
 build
 .classpath
 .project
-
+.gitignore
+.git
 # IDEA metadata and output dirs
 *.iml
 *.ipr
 *.iws
 .idea
+.cache
