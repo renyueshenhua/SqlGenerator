@@ -1,1 +1,0 @@
-comment on column {tableName}.{fieldName} is '{fieldMemo}';
