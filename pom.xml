@@ -97,6 +97,8 @@
 
 				<configuration>
 				
+					<encoding>${encoding}</encoding> 
+				
 					<downloadSources>true</downloadSources>
 
 					<buildcommands>
